@@ -1,2 +1,2 @@
-# Marks path for automatic end-of-line normalization.
+# Auto detect text files and perform LF normalization.
 * text=auto
